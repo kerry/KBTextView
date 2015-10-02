@@ -1,6 +1,10 @@
 # KBTextView
 A sub class of UIView that contains a UITextView and a UIButton that moves according to keyboard show/hide/frame change. This arrangement is mostly used in chat applications.
 
+# Screenshots
+
+![Alt text](screenshots/KBTextView.gif "KBTextView Demo")
+
 # Installation instructions
 
 1. Just copy "ContentView.h" and "ContentView.m" files in your project.
