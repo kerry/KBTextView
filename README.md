@@ -19,3 +19,7 @@ Tested in iOS 7.1 and above but not iOS 9
 
 1. You can make the ViewController the delegate of UITextView (currently the delegate is ContentView).
 2. If you programmatically change the text of UITextView and its delegate method does not get called, you may have to call it manually.
+
+#NOTE
+
+The code for textview is inspired from an already existing library, however, I forgot the name of the repository as it was too long ago. Will insert a link, if I find it again.
